@@ -1,4 +1,4 @@
-name: Auto Build Dify-Sandbox (Self-hosted)
+name: Auto Build containerd (Self-hosted)
 
 on:
   workflow_dispatch:
